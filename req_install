@@ -1,0 +1,2 @@
+pip freeze -> Filename.txt
+pip install Filename.txt -r
